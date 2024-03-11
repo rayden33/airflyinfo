@@ -1,0 +1,11 @@
+D:\TestQuest\Dataware\AirFlyInfo\AirFlyInfo\bin\Release\net6.0\publish\AirFlyInfo.exe
+D:\TestQuest\Dataware\AirFlyInfo\AirFlyInfo\bin\Release\net6.0\publish\appsettings.Development.json
+D:\TestQuest\Dataware\AirFlyInfo\AirFlyInfo\bin\Release\net6.0\publish\appsettings.json
+D:\TestQuest\Dataware\AirFlyInfo\AirFlyInfo\bin\Release\net6.0\publish\AirFlyInfo.dll
+D:\TestQuest\Dataware\AirFlyInfo\AirFlyInfo\bin\Release\net6.0\publish\AirFlyInfo.deps.json
+D:\TestQuest\Dataware\AirFlyInfo\AirFlyInfo\bin\Release\net6.0\publish\AirFlyInfo.runtimeconfig.json
+D:\TestQuest\Dataware\AirFlyInfo\AirFlyInfo\bin\Release\net6.0\publish\AirFlyInfo.pdb
+D:\TestQuest\Dataware\AirFlyInfo\AirFlyInfo\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+D:\TestQuest\Dataware\AirFlyInfo\AirFlyInfo\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\TestQuest\Dataware\AirFlyInfo\AirFlyInfo\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TestQuest\Dataware\AirFlyInfo\AirFlyInfo\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
